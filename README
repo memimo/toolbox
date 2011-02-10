@@ -2,3 +2,4 @@ A collection of bunch of modules that can be used in various projects
 
 svm.py: Classifier module
 swp.py: StarCluster plugin to make a swap on cluster instances
+image_downoader.py : A script to download images from url list as input
